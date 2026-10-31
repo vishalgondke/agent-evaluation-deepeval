@@ -47,9 +47,6 @@ class Answer(BaseModel):
 
 Evaluation cases each receive a new thread ID to keep their conversation histories separate.
 
-<img width="460" height="766" alt="image" src="https://github.com/user-attachments/assets/3b9f6d99-119b-472c-8616-c10003fb278e" />
-
-
 ### Sample Evaluation Report
 
 *DeepEval report showing task completion, step efficiency, plan quality, and plan adherence.*
